@@ -1,0 +1,13 @@
+The difference between /n and /r
+- https://stackoverflow.com/questions/1761051/difference-between-n-and-r
+
+List of common passwords:
+- https://raw.githubusercontent.com/iryndin/10K-Most-Popular-Passwords/master/passwords.txt
+
+python only run:
+- When no password is found, it takes 555 seconds
+
+Rust only run:
+- When no password is found, it takes 320 seconds
+- The visual interface is much harder to write.
+
