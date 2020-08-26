@@ -75,4 +75,4 @@ def main(target):
         print("Password was not found", end="\n", flush=False)
 
 if __name__ == "__main__":
-    main(target="123456Seven")
+    main(target="123456seven")

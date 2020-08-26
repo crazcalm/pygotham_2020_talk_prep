@@ -25,7 +25,7 @@ fn get_dict_list(path_to_dict: &str) -> std::io::Result<Vec<String>> {
 
 fn main() -> std::io::Result<()> {
     //let target = "123456seven"; // Can find
-    let target = "123456Seven"; // Cannot find
+    let target = "123456seven"; // Cannot find
 
     let mut count = 0;
 

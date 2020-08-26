@@ -1,2 +1,12 @@
 */*/*/target/
 sir_robot_brute_force/rust_only/brute_force_password/Cargo.lock
+
+*/*/Env/
+*/*/*/.eggs/
+sir_robot_brute_force/python_and_rust/brute_force/Cargo.lock
+*/*/*/Env/
+sir_robot_brute_force/python_and_rust/brute_force/brute_force/
+sir_robot_brute_force/python_and_rust/brute_force/setup.py_old
+*/*/*/*/__pycache__/
+
+
