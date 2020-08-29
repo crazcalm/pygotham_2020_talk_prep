@@ -8,5 +8,6 @@ sir_robot_brute_force/python_and_rust/brute_force/Cargo.lock
 sir_robot_brute_force/python_and_rust/brute_force/brute_force/
 sir_robot_brute_force/python_and_rust/brute_force/setup.py_old
 */*/*/*/__pycache__/
-
+*/*/*/__pycache__/
+bargaining_chip_web_crawlers/python_and_rust/summary/summary/summary.cpython-38-x86_64-linux-gnu.so
 
